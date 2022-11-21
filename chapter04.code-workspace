@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "Debugging"
+		},
+		{
+			"path": "CalculatorLib"
+		},
+		{
+			"path": "XunitTest"
+		},
+		{
+			"name": "chapter04",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

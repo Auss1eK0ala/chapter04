@@ -10,8 +10,8 @@
 			"path": "XunitTest"
 		},
 		{
-			"name": "chapter04",
-			"path": "."
+			"name": "hello-world",
+			"path": "helloworld/hello-world"
 		}
 	],
 	"settings": {}
